@@ -5,3 +5,7 @@ Jorge tiene 47 años.
 Jorge vive en Funza.
 
 Jorge está creando un emprendimiento en este momento.
+
+Su estatura es de 1.78 momento.
+
+Su peso es de 80 kg.
